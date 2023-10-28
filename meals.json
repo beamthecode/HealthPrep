@@ -1,0 +1,41 @@
+[
+    {
+        "id": "Three-Meal-Plan",
+        "name": "Three Meal Plan",
+        "meals": "Three prepared meals",
+        "type": "Three-Outer-Plan",
+        "description": "Our three meal plan is perfect for the person who wants to mix up their diet a bit. This meal plan works great for folks who are looking for lunch options during the week, or looking for something simple they can quickly whip up a healthy meal after a long day. Each meal comes with a main course and two sides. Our menu is based around healthy options, so this meal option also works great for active folks on the go!",
+        "imageCredit": "Micheile Henderson",
+        "price": 3,
+        "mainOfferings": "Chicken Breast, Sirloin, Pork Loin, Turkey Breast, Grilled Shrimp",
+        "sides": "Brussel Sprouts, Green Beans, Broccoli, Asparagus, Carrots, Potatoes, Sweet Potatoes, Mixed Fruit, Apple Slices, Cottage Cheese"
+       
+    },
+    
+    {
+        "id": "Five-Meal-Plan",
+        "name": "Five Meal Plan",
+        "meals": "Five prepared meals",
+        "type": "Five-Outer-Plan",
+        "description": "Our five meal plan is perfect for those that are looking for healthy convenient meal options. This meal plan works great for folks who don't have the time in their schedules to meal prep. Each meal comes with a main course and two sides. Our menu is based around healthy options, so this meal option also works great for active folks on the go! No meal prep needed! This could be your lunch all week, or hey, even your dinner!",
+        "imageCredit": "Debby Hudson",
+        "price": 5,
+        "mainOfferings": "Chicken Breast, Sirloin, Pork Loin, Turkey Breast, Grilled Shrimp",
+        "sides": "Brussel Sprouts, Green Beans, Broccoli, Asparagus, Carrots, Potatoes, Sweet Potatoes, Mixed Fruit, Apple Slices, Cottage Cheese"
+       
+    },
+    
+    {
+        "id": "Ten-Meal-Plan",
+        "name": "Ten Meal Plan",
+        "meals": "Ten prepared meals",
+        "type": "Ten-Outer-Plan",
+        "description": "Our ten meal plan is perfect for those that are looking to supplement their lunch / dinner options. This meal plan works great for busy couples who want to share meals together, or the busy professional who doesn't have time to worry about lunch or dinner. Each meal comes with a main course and two sides. Our menu is based around healthy options, so this meal option also works great for active folks on the go!",
+        "imageCredit": "Hannah Busing",
+        "price": 7,
+        "mainOfferings": "Chicken Breast, Sirloin, Pork Loin, Turkey Breast, Grilled Shrimp",
+        "sides": "Brussel Sprouts, Green Beans, Broccoli, Asparagus, Carrots, Potatoes, Sweet Potatoes, Mixed Fruit, Apple Slices, Cottage Cheese"
+       
+    },
+    
+]

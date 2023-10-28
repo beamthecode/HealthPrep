@@ -1,0 +1,181 @@
+[
+    {
+        "id": "Chicken-Breast",
+        "name": "Chicken Breast",
+        "type": "Main-Dish",
+        "serving": "3 Ounces",
+        "description": "Our three ounce chicken breast is rubbed with olive oil and lightly seasoned with salt, pepper, and our special cajun seasoning. Baked with love, it is the perfect healthy meat option. The most delicious, juicy chicken breast around!",
+        "imageCredit": "Karyna Panchenko",
+        "price": 4,
+        "healthFacts": "Calories: 128, Fat: 2.7g, Sodium: 44mg, Carbohydrates: 0g, Fiber: 0g, Sugars: 0g, Protein: 26g"
+       
+    },
+    
+    {
+        "id": "Sirloin",
+        "name": "Sirloin",
+        "type": "Main-Dish",
+        "serving": "3 Ounces",
+        "description": "Our three ounce sirloin steak cut is seasoned with salt, pepper, and our special steak seasoning. We sear the steak on the flat-top to get a good sear, and then finish it in the over over high heat. This is a great option for health minded people. You will come back for more!",
+        "imageCredit": "Emerson Vieira",
+        "price": 4,
+        "healthFacts": "Calories: 130, Fat: 3.5g, Sodium: 240mg, Carbohydrates: 0g, Fiber: 0g, Sugars: 0g, Protein: 25g"
+       
+    },
+    
+    {
+        "id": "Pork-Loin",
+        "name": "Pork Loin",
+        "type": "Main-Dish",
+        "serving": "3 Ounces",
+        "description": "Our three ounce pork loin cut is marinated in our special house marinade, then seasoned with a healthy dose of salt, pepper, and special cajun seasoning. The pork loin is then smoked. We think you will love this pork loin!",
+        "imageCredit": "Charles Deluvio",
+        "price": 4,
+        "healthFacts": "Calories: 202.3, Fat: 11.3g, Sodium: 79.9mg, Carbohydrates: 0g, Fiber: 0g, Sugars: 0g, Protein: 23.5g"
+       
+    },
+    
+    {
+        "id": "Turkey-Breast",
+        "name": "Turkey Breast",
+        "type": "Main-Dish",
+        "serving": "6 Ounces",
+        "description": "Our six ounce turkey breast is not your mom's Thanksgiving turkey! This turkey packs a punch. Slow roasted, and seasoned with our special cajun seasoning, you will love this bird! For the folks who are looking to pack on some muscle, this is our highest protein offering!",
+        "imageCredit": "Tengyart",
+        "price": 4,
+        "healthFacts": "Calories: 250, Fat: 3.5g, Sodium: 168.3mg, Carbohydrates: 0g, Fiber: 0g, Sugars: 0g, Protein: 51.2g"
+       
+    },
+    
+    {
+        "id": "Grilled-Shrimp",
+        "name": "Grilled Shrimp",
+        "type": "Main-Dish",
+        "serving": "3 Ounces",
+        "description": "Our grilled shrimp is one of our hallmarks! We hit the shrimp with our famous special cajun blend and then we throw them on the grill. We toss them in a mix of lime juice and cilantro before serving. This is a very tasty, low calorie option. You will love them!",
+        "imageCredit": "Farhad Ibrahimzade",
+        "price": 4,
+        "healthFacts": "Calories: 84, Fat: 0.2g, Sodium: 94.4mg, Carbohydrates: 0g, Fiber: 0g, Sugars: 0g, Protein: 20.4g"
+       
+    },
+    
+    {
+        "id": "Brussel-Sprouts",
+        "name": "Brussel Sprouts",
+        "type": "Side-Dish",
+        "serving": "8 Ounces",
+        "description": "Our brussel sprouts are sauteed in olive oil and seasoned with salt, pepper, and multiblend seasoning until they have the perfect crust on them. This is our favorite side. They will be your favorite!",
+        "imageCredit": "Jez Timms",
+        "price": 2,
+        "healthFacts": "Calories: 56, Fat: 0.2g, Sodium: 16mg, Carbohydrates: 11g, Fiber: 4.1g, Sugars: 2.7g, Protein: 4g, Vitamin K: 219mcg, Vitamin C: 97mg, Folate: 93.6mcg"
+       
+    },
+    
+    {
+        "id": "Green-Beans",
+        "name": "Green Beans",
+        "type": "Side-Dish",
+        "serving": "8 Ounces",
+        "description": "Our green beans are steamed and seasoned with salt and pepper. We toss them lightly in olive oil before serving. Perfection!",
+        "imageCredit": "Megan Schiereck",
+        "price": 2,
+        "healthFacts": "Calories: 31, Fat: 0.2g, Sodium: 6mg, Carbohydrates: 7g, Fiber: 2.7g, Sugars: 3.3g, Protein: 1.8g, Vitamin K: 43mcg, Vitamin C: 12.2mg, Vitamin A: 35mcg, Vitamin B6: 0.1mg, Iron: 1mg, Potassium: 211mg, Folate: 33mcg"
+       
+    },
+    
+    {
+        "id": "Broccoli",
+        "name": "Broccoli",
+        "type": "Side-Dish",
+        "serving": "8 Ounces",
+        "description": "We steam our broccoli and then hit it with salt, pepper, and lightly with multiblend seasoning. This is not your mom's broccoli. You will want to keep coming back for this!",
+        "imageCredit": "Louis Hansel",
+        "price": 2,
+        "healthFacts": "Calories: 31, Fat: 0.3g, Sodium: 30mg, Carbohydrates: 6g, Fiber: 2.4g, Sugars: 1.5g, Protein: 2.5g, Vitamin K: 92.8mcg, Vitamin C: 81.2mg, Magnesium: 19.1mg, Calcium: 42.8mg"
+       
+    },
+    
+    {
+        "id": "Asparagus",
+        "name": "Asparagus",
+        "type": "Side-Dish",
+        "serving": "4 Ounces",
+        "description": "Our asparagus is sauteed on the flat top in olive oil. We then toss it in a mixture of salt, pepper, special cajun seasoning, and lemon juice. This is chef's kiss!",
+        "imageCredit": "Christine Siracusa",
+        "price": 2,
+        "healthFacts": "Calories: 20, Fat: 0.2g, Sodium: 13mg, Carbohydrates: 3.7g, Fiber: 1.8g, Sugars: 1.2g, Protein: 2.2g, Vitamin K: 45.5mcg"
+       
+    },
+    
+    {
+        "id": "Carrots",
+        "name": "Carrots",
+        "type": "Side-Dish",
+        "serving": "3 Ounces",
+        "description": "We toss our carrots in olive oil and season with salt, pepper, and multispice blend. We then roast the carrots to perfection. Enjoy!",
+        "imageCredit": "Nick Fewings",
+        "price": 2,
+        "healthFacts": "Calories: 25, Fat: 0.0g, Sodium: 42mg, Carbohydrates: 6g, Fiber: 1.5g, Sugars: 2.9g, Protein: 0.5g, Vitamin K: 8mcg, Vitamin A: 509mcg, Potassium: 195.2mg, Beta Carotene: 5053.8mcg"
+       
+    },
+    
+    {
+        "id": "Potatoes",
+        "name": "Potatoes",
+        "type": "Side-Dish",
+        "serving": "5.3 Ounces",
+        "description": "We drizzle our potatoes with olive oil and sprinkle salt, pepper, and special cajun season on top. We then roast them until they are delicious. We hit them with sage and chive before serving. This is one of our favorites!",
+        "imageCredit": "Townsend Walton",
+        "price": 2,
+        "healthFacts": "Calories: 164, Fat: 0.2g, Sodium: 24mg, Carbohydrates: 37g, Fiber: 4g, Sugars: 1.9g, Protein: 4.6g, Vitamin C: 14.4mg, Vitamin B6: 0.6mg"
+       
+    },
+    
+    {
+        "id": "Sweet-Potatoes",
+        "name": "Sweet Potatoes",
+        "type": "Side-Dish",
+        "serving": "5 Ounces",
+        "description": "We drizzle our sweet potatoes with olive oil and sprinkle salt and pepper. We then roast them into perfection. We hit them with a dash of cinnamon before serving. A perfect twist on a classic sweet potato!",
+        "imageCredit": "Louis Hansel",
+        "price": 2,
+        "healthFacts": "Calories: 162, Fat: 0.1g, Sodium: 71mg, Carbohydrates: 37g, Fiber: 3.9g, Sugars: 5.4g, Protein: 3.6g, Vitamin A: 1730mcg, Vitamin C: 35.3mg, Potassium: 855mg"
+       
+    },
+    
+    {
+        "id": "Mixed-Fruit",
+        "name": "Mixed Fruit",
+        "type": "Side-Dish",
+        "serving": "4 Ounces",
+        "description": "We mix up a combination of peaches, cherries, raspberries, grapes, and pears into a wonderful concoction that we know you will love. No added sugars, so this is a natural sweet treat!",
+        "imageCredit": "Grooveland Designs",
+        "price": 3,
+        "healthFacts": "Calories: 245, Fat: 0.5g, Sodium: 7.5mg, Carbohydrates: 60.6g, Fiber: 4.8g, Sugars: 5.4g, Protein: 3.6g, Vitamin C: 187.5mg, Potassium: 327.5mg, Magnesium: 15mg, Calcium: 17.5mg"
+       
+    },
+    
+    {
+        "id": "Apple-Slices",
+        "name": "Apple Slices",
+        "type": "Side-Dish",
+        "serving": "4 Ounces",
+        "description": "We season our apple slices with a dash of olive oil and a healthy seasoning of cinnamon. We then roast these apples to perfection. An apple a day keeps the doctor away!",
+        "imageCredit": "Jessica Lewis",
+        "price": 2,
+        "healthFacts": "Calories: 60, Fat: 0.2g, Sodium: 1mg, Carbohydrates: 18g, Fiber: 2g, Sugars: 13g, Protein: 0.3g, Vitamin C: 6mg, Iron: 0.2mg"
+       
+    },
+    
+    {
+        "id": "Cottage-Cheese",
+        "name": "Cottage Cheese",
+        "type": "Side-Dish",
+        "serving": "3.5 Ounces",
+        "description": "Our cottage cheese is locally sourced from Dayhill Dairy. Each serving is from the dairy farm, and is a perfect addition to any meal!",
+        "imageCredit": "Lena Kudryavtseva",
+        "price": 2,
+        "healthFacts": "Calories: 84, Fat: 2.3g, Sodium: 321mg, Carbohydrates: 4.3g, Fiber: 0g, Sugars: 4.1g, Protein: 11g, Calcium: 111mg"
+       
+    },
+]

@@ -14,7 +14,6 @@ struct HomeView: View {
             Color.brown
                 .ignoresSafeArea()
             
-            
             VStack {
                 
                 Image("HealthPrepLogo")

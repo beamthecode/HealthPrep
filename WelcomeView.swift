@@ -16,6 +16,7 @@ struct WelcomeView: View {
                 .foregroundColor(.secondary)
         }
     }
+    
 }
 
 #Preview {
